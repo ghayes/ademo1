@@ -14,11 +14,6 @@
       "releaseIndDesc":"SC - C-Level Release",
       "totalAmount":"3647.00",
       "approvingUser":"cmurphy@citrixdemo.com"
-    },
-    {
-      "id": 2,
-      "title": "Build an API using API Platform",
-      "authorId": 1
     }
   ],
   "comments": [
