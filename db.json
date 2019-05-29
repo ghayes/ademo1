@@ -32,16 +32,29 @@
       "cartItemId": 1
     }
   ],
-  "authors": [
+  "trainingScheduled": [
     {
       "id": 1,
-      "username": "rpierlot",
-      "title": "Romain Pierlot"
-    },
+      "email": "cmurphy@citrixdemo.com",
+      "instructor": "Gina Sledd",
+      "dueDate":"2019-06-03",
+      "courseName":"Protecting Your Data",
+      "description":"This course is designed to educate managers on how to protect their organizations from these risks and ensures managers clearly understand the unique position they are in to protect their organization from cyber security risk.",
+      "location":"Online",
+      "topic":"Security"
+    }
+  ],
+  "trainingAvailable": [
     {
-      "id": 2,
-      "username": "qneyrat",
-      "title": "Quentin Neyrat"
+      "id": 1,
+      "instructor": "Gina Sledd",
+      "startDate":"2019-06-24",
+      "endDate":"2019-06-28",
+      "title":"Leadership in the 21st Century",
+      "description":"Learn how to negotiate with and influencing people of the world’s largest businesses.",
+      "location":"Sydney",
+      "topic":"Leadership",
+      "facility":"Parramatta Square"
     }
   ]
 }
