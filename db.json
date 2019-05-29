@@ -16,16 +16,20 @@
       "approvingUser":"cmurphy@citrixdemo.com"
     }
   ],
-  "comments": [
+  "cartLineItems": [
     {
       "id": 1,
-      "body": "Brilliant",
-      "articleId": 1
+      "marterial": "TDK-4.7GB DVD+RW",
+      "quantity":16,
+      "netPrice":2647.48,
+      "cartItemId": 1
     },
     {
       "id": 2,
-      "body": "Awesome",
-      "articleId": 2
+      "marterial": "Soundgear Copyboard",
+      "quantity":12,
+      "netPrice":1000.52,
+      "cartItemId": 1
     }
   ],
   "authors": [
