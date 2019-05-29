@@ -1,0 +1,48 @@
+{
+  "cartItems": [
+    {
+      "id": 1,
+      "poNumber":2,
+      "documentType":"PR",
+      "createdAt":"2019-05-29 15:45:00",
+      "createdBy":"Aline Gomes",
+      "vendor":"Dalnet",
+      "purchaseOrg":"Prod",
+      "purchaseGroup":"B- Blocked",
+      "releaseGroup":"GC",
+      "releaseInd":"B-Blocked",
+      "releaseIndDesc":"SC - C-Level Release",
+      "totalAmount":"3647.00",
+      "approvingUser":"cmurphy@citrixdemo.com"
+    },
+    {
+      "id": 2,
+      "title": "Build an API using API Platform",
+      "authorId": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Brilliant",
+      "articleId": 1
+    },
+    {
+      "id": 2,
+      "body": "Awesome",
+      "articleId": 2
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "username": "rpierlot",
+      "title": "Romain Pierlot"
+    },
+    {
+      "id": 2,
+      "username": "qneyrat",
+      "title": "Quentin Neyrat"
+    }
+  ]
+}
