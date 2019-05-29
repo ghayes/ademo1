@@ -56,5 +56,144 @@
       "topic":"Leadership",
       "facility":"Parramatta Square"
     }
+  ],
+  "snowRequest": [
+    {
+      "id": 1,
+      "req_number": "CHG-203",
+      "req_type":"Change Request",
+      "opened_by":"Jennifer Lee",
+      "title":"Lockdown Server Room",
+      "description":"Main server room in building one does not lock anymore. Requesting the locks to be fixed to prevent unwelcomed guests!",
+      "visitorName":"",
+      "building":"",
+      "wifiName":"",
+      "wifiPassword":"",
+      "impact":"1 - High",
+      "urgency":"1 - High",
+      "severity":"1 - High",
+      "priority":"2 - Medium",
+      "assigned_to":"Jen Dao",
+      "status":"Open",
+      "category":"Network",
+      "approvingUser":"cmurphy@citrixdemo.com"
+    },
+    {
+      "id": 2,
+      "req_number": "PRB-126",
+      "req_type":"Service Request",
+      "title":"Symantec Token",
+      "description":"VIP Token on cell phone is no longer linked to my account.",
+      "visitorName":"",
+      "building":"",
+      "wifiName":"",
+      "wifiPassword":"",
+      "impact":"2 - Medium",
+      "urgency":"2 - Medium",
+      "severity":"1 - High",
+      "priority":"2 - Medium",
+      "assigned_to":"Jen Dao",
+      "status":"Open",
+      "category":"VIP Token",
+      "approvingUser":"cmurphy@citrixdemo.com"
+    },
+    {
+      "id": 3,
+      "req_number": "PRB-101",
+      "req_type":"Alert",
+      "title":"Cannot badge into Room 312",
+      "description":"I am locked out of my office because my badge is not working.",
+      "visitorName":"",
+      "building":"",
+      "wifiName":"",
+      "wifiPassword":"",
+      "impact":"1 - High",
+      "urgency":"1 - High",
+      "severity":"1 - High",
+      "priority":"1 - High",
+      "assigned_to":"Jen Dao",
+      "status":"Open",
+      "category":"Building Permissions",
+      "approvingUser":"cmurphy@citrixdemo.com"
+    },
+    {
+      "id": 4,
+      "req_number": "TCK-1981",
+      "req_type":"Ticket",
+      "title":"New Guest Wifi Password",
+      "description":"Requesting a new guest Wifi password.",
+      "visitorName":"Sam Ansara",
+      "building":"Parramatta Square",
+      "wifiName":"NAB-Guest",
+      "wifiPassword":"n4br0x123!",
+      "impact":"2 - Medium",
+      "urgency":"2 - Medium",
+      "severity":"1 - High",
+      "priority":"2 - Medium",
+      "assigned_to":"Jen Dao",
+      "status":"Completed",
+      "category":"Password",
+      "approvingUser":"cmurphy@citrixdemo.com"
+    }
+  ],
+  "ptoRequest": [
+    {
+      "id": 1,
+      "title":"PTO Request",
+      "description":"Nephew's wedding in Vermont",
+      "startDate":"2019-06-07",
+      "endDate":"2019-06-21",
+      "submittedBy":"PJ Calderon",
+      "submittedDate":"2019-05-27",
+      "approvingUser":"cmurphy@citrixdemo.com"
+    }
+  ],
+  "meetings": [
+    {
+      "id": 1,
+      "title":"Stand Up Meeting",
+      "description":"Learn how to negotiate with and influencing people of the world’s largest businesses.",
+      "startDate":"2019-05-29",
+      "endTime":"12:00",
+      "meetingCreator":"Gina Sledd",
+      "building":"Wynyard Place",
+      "roomNumber":"423",
+      "zoomURL":"https://zoom.us/meeting/43sd23d"
+    }
+  ],
+  "visitorInfo": [
+    {
+      "id": 1,
+      "visitorName":"Gina Sledd",
+      "visitorPhoto":"",
+      "title":"VP Operations",
+      "company":"Acme Inc",
+      "phoneNumber":"(849) 834-2344",
+      "email":"gina.sledd@acme.com",
+      "buildingName":"405 Bourke St",
+      "departmentName":"Operations US(53394)",
+      "visitDate":"2019-06-07",
+      "visitingUser":"cmurphy@citrixdemo.com"
+    }
+  ],
+  "lockerInfo": [
+    {
+      "id": 1,
+      "buildingName":"Parramatta Square",
+      "floorNumber":"Fourth Floor",
+      "status":"Reserved",
+      "lockerNumber":"414",
+      "reservedFor":"cmurphy@citrixdemo.com",
+      "reservedDate":"2019-05-29"
+    },
+    {
+      "id": 2,
+      "buildingName":"Parramatta Square",
+      "floorNumber":"Third Floor",
+      "status":"Package Available",
+      "lockerNumber":"317",
+      "reservedFor":"cmurphy@citrixdemo.com",
+      "reservedDate":"2019-05-29"
+    }
   ]
 }
